@@ -1,5 +1,5 @@
 [template.environment]
-  MEDUSA_BACKEND_URL="URL of your Medusa Server"
+  MEDUSA_BACKEND_URL="http://mode-commission.at.ply.gg:19975"
 
 [build]
   publish = "public/"
